@@ -8,4 +8,4 @@ Formatting:
 
 | Company | Location | Remote |
 | ------ | ------ | ------ |
-| Name of the company | 🇪🇸 | EU |
+| [Proton](https://job-boards.eu.greenhouse.io/proton) | 🇪🇸🇫🇷🇬🇧 | Remote |

@@ -9,3 +9,4 @@ Formatting:
 | Company | Location | Remote |
 | ------ | ------ | ------ |
 | [Proton](https://job-boards.eu.greenhouse.io/proton) | 🇪🇸🇫🇷🇬🇧 | Remote |
+| [Threema](https://threema.ch/es/jobs) | 🇨🇭 | Onsite |

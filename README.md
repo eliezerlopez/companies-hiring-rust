@@ -10,3 +10,4 @@ Formatting:
 | ------ | ------ | ------ |
 | [Proton](https://job-boards.eu.greenhouse.io/proton) | 🇪🇸🇫🇷🇬🇧 | Remote |
 | [Threema](https://threema.ch/es/jobs) | 🇨🇭 | Onsite |
+| [Wake Up Labs](https://www.wakeuplabs.io/) | 🌎 | Remote |

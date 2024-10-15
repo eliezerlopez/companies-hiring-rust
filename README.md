@@ -9,5 +9,6 @@ Formatting:
 | Company | Location | Remote |
 | ------ | ------ | ------ |
 | [Proton](https://job-boards.eu.greenhouse.io/proton) | 🇪🇸🇫🇷🇬🇧 | Remote |
+| [Risc Zero](https://jobs.ashbyhq.com/RiscZero) | 🇺🇸 | Remote |
 | [Threema](https://threema.ch/es/jobs) | 🇨🇭 | Onsite |
 | [Wake Up Labs](https://www.wakeuplabs.io/) | 🌎 | Remote |

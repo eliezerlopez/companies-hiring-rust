@@ -8,6 +8,7 @@ Formatting:
 
 | Company | Location | Remote |
 | ------ | ------ | ------ |
+| [Outcoude](https://app.eddy.com/careers/outcodesoftware/) | LATAM | Remote |
 | [Proton](https://job-boards.eu.greenhouse.io/proton) | 🇪🇸🇫🇷🇬🇧 | Remote |
 | [Risc Zero](https://jobs.ashbyhq.com/RiscZero) | 🇺🇸 | Remote |
 | [Threema](https://threema.ch/es/jobs) | 🇨🇭 | Onsite |
